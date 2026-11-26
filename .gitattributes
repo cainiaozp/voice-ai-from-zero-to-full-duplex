@@ -1,0 +1,8 @@
+*.wav binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.md text eol=lf
+*.py text eol=lf

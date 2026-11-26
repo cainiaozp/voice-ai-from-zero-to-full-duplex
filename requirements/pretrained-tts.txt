@@ -1,0 +1,3 @@
+# Optional: large model downloads, GPU recommended.
+-r pytorch.txt
+qwen-tts

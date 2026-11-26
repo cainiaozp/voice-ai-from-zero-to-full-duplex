@@ -1,0 +1,3 @@
+-r pytorch.txt
+transformers>=4.46
+sentencepiece

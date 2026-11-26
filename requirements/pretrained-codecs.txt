@@ -1,0 +1,4 @@
+# Optional: verify CUDA, torch/torchaudio version compatibility first.
+-r pytorch.txt
+encodec
+torchaudio
